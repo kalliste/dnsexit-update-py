@@ -1,0 +1,5 @@
+A script to update dnsexit.com dynamic dns entries.
+
+Edit it with your login, password, and host for dnsexit.
+
+Run it from cron
